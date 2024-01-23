@@ -1,13 +1,29 @@
-HOLA MUNDO -JOSE ESTRADA
-# Definir lista vacía
-lista_supermercado = []
+# Pizza Casera 🍕
 
-# Agregar elementos a la lista
-lista_supermercado.append("tomates")
-lista_supermercado.append("cebolla")
-lista_supermercado.append("ajo")
+## Ingredientes:
+- Masa para pizza
+- Salsa de tomate
+- Queso mozzarella
+- Ingredientes adicionales al gusto (jamón, champiñones, etc.)
 
-# Imprimir la lista de supermercado
-print("Lista de supermercado:")
-for producto in lista_supermercado:
-    print(producto)
+## Pasos:
+
+1. **Preparación:**
+   - Precalienta el horno a 220°C.
+   - Estira la masa en una bandeja.
+
+2. **Monta la pizza:**
+   - Extiende salsa de tomate.
+   - Agrega queso mozzarella.
+
+3. **Personaliza:**
+   - Añade tus ingredientes favoritos.
+
+4. **Hornea:**
+   - Cocina en el horno por 12-15 minutos, hasta que la masa esté dorada.
+
+5. **¡Listo para disfrutar!**
+   - Saca la pizza, deja enfriar un poco y ¡a comer!
+
+¡Buen provecho! 🍽️
+
