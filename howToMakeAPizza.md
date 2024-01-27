@@ -1,4 +1,4 @@
-HOLA MUNDO -JOSE ESTRADA
+
 # Definir lista vacía
 lista_supermercado = []
 
@@ -7,7 +7,7 @@ lista_supermercado.append("tomates")
 lista_supermercado.append("cebolla")
 lista_supermercado.append("ajo")
 
-# Imprimir la lista de supermercado
+# Imprimir la lista de supermercado La Colonia
 print("Lista de supermercado:")
 for producto in lista_supermercado:
     print(producto)
